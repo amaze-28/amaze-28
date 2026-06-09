@@ -1,43 +1,48 @@
 # Anurag Soni
 
-Backend-leaning Software Engineer building scalable systems and AI-powered applications.
-
-## 🚀 What I’ve Built
-
-- Data pipelines processing **100K–200K records/day** (AWS: Redshift, Firehose, S3)  
-- LLM-powered systems for structured data extraction from APIs and documents  
-- Serverless architectures (AWS Lambda) reducing infrastructure costs by **~60%**  
-- Backend systems powering applications used by **50K+ users**  
-
-## 🧠 Projects
-
-### AI Teaching Copilot
-LLM-powered system generating structured educational content with multi-step refinement and difficulty control  
-**Tech:** Node.js, React, OpenAI, AWS  
-🔗 Live Demo: [https://ai-teaching-copilot.vercel.app/] | 💻 Code: [https://github.com/amaze-28/ai-teaching-copilot]
+software engineer & builder. shipping products, building in public.
 
 ---
 
-### SnipLink
-Scalable URL shortener with analytics, custom aliases, and expiration handling  
-**Tech:** Node.js, PostgreSQL, Redis, React  
-🔗 Live Demo: [https://sniplink-v2.vercel.app/] | 💻 Code: [https://github.com/amaze-28/sniplink-v2]
+## 🚀 products i've shipped
+
+**[CommitPosts](https://commitposts.com)** — ai changelog generator  
+connect github → ai writes your changelog → you publish in one click  
+`Next.js` `Hono` `Cloudflare Workers` `Neon` `OpenAI`
+
+**[ClubMint](https://clubmint.app)** — gym management mobile app *(launching on play store soon)*  
+member tracking, expiry alerts, daily push notifications  
+`React Native` `Expo` `Hono` `Neon` `Drizzle`
 
 ---
 
-## 🌍 Open Source
+## 🏗️ what i've built at work
 
-- Contributed to **LangChain.js** — added support for Perplexity AI models in the universal chat model abstraction (merged)  
-  🔗 [View Pull Request](https://github.com/langchain-ai/langchainjs/pull/9028)
+- data pipelines processing 100K–200K records/day (Firehose → Redshift)
+- ocr pipeline processing 1 crore answer sheets on AWS Lambda
+- llm-powered multilingual systems for 50K+ users
+- serverless migration cutting infra costs by 60%
+- designed multi-agent AI system — orchestrator, PDF caching, external API and synthesizer agents powering a conversational query bot
 
-## 🛠 Tech Stack
+---
 
-Node.js • TypeScript • React • Next.js  
-AWS (Lambda, S3, Redshift, DynamoDB)  
-PostgreSQL • Redis • LLM APIs
+## 🌍 open source
 
-## 📫 Connect
+contributed to **LangChain.js** — added Perplexity AI model support  
+[view PR →](https://github.com/langchain-ai/langchainjs/pull/9028)
 
-- 🌐 Portfolio: [https://www.anuragsoni.com/]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/anurag-soni-23aa78191/]  
-- 📧 Email: [anuunity28@gmail.com]
+---
+
+## 🛠️ stack
+
+`Node.js` `TypeScript` `React` `Next.js` `React Native`  
+`AWS` `Cloudflare Workers` `Hono` `PostgreSQL` `Neon` `Drizzle` `Redis`  
+`OpenAI` `LLMs` `System Design`
+
+---
+
+## 📫 find me
+
+🌐 [anuragsoni.com](https://anuragsoni.com)  
+🐦 [@anuunity28](https://x.com/anuunity28)  
+📧 anuunity28@gmail.com
